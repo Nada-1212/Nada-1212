@@ -1,6 +1,6 @@
-# Hi, I'm Nada Mosaad 👋
+# Hi, I'm Nada Mosaad
 
-I'm an Electronic Engineering student in Egypt building practical software projects and working toward a career in AI/ML. I'm especially interested in Python, Computer Vision, and scientific research.
+I'm an Electronic Engineering student in Egypt building practical software projects . I'm  interested in Python, Computer Vision,AI,ML and scientific research.
 
 ## Featured projects
 
