@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Nada 👋
 
-<!--
-**Nada-1212/Nada-1212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Electronic Engineering student in Egypt building practical software projects and working toward a career in AI/ML. I'm especially interested in Python, Computer Vision, and scientific research.
 
-Here are some ideas to get you started:
+## Current focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Practicing Python through CS50P and hands-on projects
+- Learning AI/ML fundamentals through my bootcamp
+- Exploring Computer Vision and research foundations
+
+## Featured project
+
+### [RESQ — AI Tactical Ambulance Game](https://github.com/Nada-1212/RESQ-AI-Ambulance-Game)
+
+A Python and Pygame emergency-response simulation featuring A* pathfinding, tabular Q-Learning for adaptive difficulty, and a decision-tree style threat classification system.
+
+## Technologies and topics
+
+`Python` · `Pygame` · `A* Pathfinding` · `Q-Learning` · `Git`
+
+## Connect
+
+- [GitHub profile](https://github.com/Nada-1212)
