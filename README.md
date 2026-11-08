@@ -5,7 +5,7 @@ I'm an Electronic Engineering student in Egypt building practical software proje
 ## Current focus
 
 - Practicing Python through CS50P and hands-on projects
-- Learning AI/ML fundamentals through my bootcamp
+- Learning AI/ML fundamentals 
 - Exploring Computer Vision and research foundations
 
 ## Featured project
