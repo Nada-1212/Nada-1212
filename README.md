@@ -1,4 +1,4 @@
-# Hi, I'm Nada 👋
+# Hi, I'm Nada Mosaad 
 
 I'm an Electronic Engineering student in Egypt building practical software projects and working toward a career in AI/ML. I'm especially interested in Python, Computer Vision, and scientific research.
 
